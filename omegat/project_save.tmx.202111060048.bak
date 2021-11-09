@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="ES"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ES">
+        <seg>Actualmente es profesor en el Departamento de Educación Física y Deporte, y Vicedecano del Grado en Ciencias de la Actividad Física y el Deporte.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230722Z" creationid="Usuario" creationdate="20211105T230722Z">
+        <seg>He is currently a lecturer in the Department of Physical Education and Sport, and Vice-Dean of the Degree in Physical Activity and Sport Sciences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Actualmente es profesor en el Departamento de Educación Física y Deporte.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230348Z" creationid="Usuario" creationdate="20211105T230348Z">
+        <seg>Currently he is a lecturer in the Department of Physical Education and Sport.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Alberto Encarnación Martínez se Licenció en Educación Física y Deportes por la Universidad de Valencia (España) en el año 2005, y obtuvo el doctorado en Educación Física y Deportes por la misma universidad en 2012.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230234Z" creationid="Usuario" creationdate="20211105T230234Z">
+        <seg>Alberto Encarnación Martínez graduated in Physical Education and Sports from the University of Valencia (Spain) in 2005, where he also obtained his PhD in Physical Education and Sports in 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Colaboradores Redicym</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230002Z" creationid="Usuario" creationdate="20211105T230002Z">
+        <seg>Redicym partners</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Dirige el grupo de investigación "GIBD" (Grupo de Investigación en Biomecánica Deportiva) con varios proyectos financiados por instituciones públicas / privadas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230756Z" creationid="Usuario" creationdate="20211105T230756Z">
+        <seg>He leads the research group "GIBD" (Grupo de Investigación en Biomecánica Deportiva) with several projects funded by both public and private institutions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Doctora en Ciencias Físicas por la Universidad de Valencia en 1986.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T234626Z" creationid="Usuario" creationdate="20211105T234626Z">
+        <seg>PhD in Physical Sciences from the University of Valencia in 1986.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El deporte del ciclismo es uno de los más practicados en España, sin embargo, es practicado de forma desigual según el género: porcentaje de práctica entre hombre (28%) y mujeres (14%).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T224007Z" creationid="Usuario" creationdate="20211105T224007Z">
+        <seg>Cycling is one of the most popular sports in Spain, however, it is practised unequally according to gender: percentage of men (28%) and women (14%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Es miembro del grupo de investigación "GIBD" (Grupo de Investigación en Biomecánica Deportiva), donde participa en diversos proyectos y es IP de proyectos de transferencia tecnológica con empresas derivadas del sector industrial de maquinaria deportiva.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230532Z" creationid="Usuario" creationdate="20211105T230532Z">
+        <seg>He is a member of the research group "GIBD" (Sports Biomechanics Research Group), where he is involved in several projects and is PI of technology transfer projects with spin-off companies from the sports machinery industry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Fue investigador del Institito de Biomecánica de Valencia (2 años becario + 2 años investigador) y profesor de Biomecánica del Deporte en la UCAM (8 años).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230321Z" creationid="Usuario" creationdate="20211105T230321Z">
+        <seg>He was a researcher at the Biomechanics Institute of Valencia (2 years grant holder + 2 years researcher) and professor of Sports Biomechanics at the UCAM (8 years).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Grupo de Investigación en Biomecánica Deportiva (GIBD) (www.uv/gibd.es )</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230617Z" creationid="Usuario" creationdate="20211105T230617Z">
+        <seg>Sports Biomechanics Research Group (GIBD) (www.uv/gibd.es)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ha publicado 4 libros relacionados con biomecánica deportiva y varios capítulos relacionados en esta área.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T231208Z" creationid="Usuario" creationdate="20211105T231208Z">
+        <seg>He has published 4 books related to sports biomechanics and several related chapters in this area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Integrantes Redicym</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T225556Z" creationid="Usuario" creationdate="20211105T225556Z">
+        <seg>Redicym Members</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La mayoría de estos proyectos de investigación están relacionados con la biomecánica deportiva, la actividad física y, en particular, con la investigación deportiva en textil y ortesis plantares (calzado deportivo).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230914Z" creationid="Usuario" creationdate="20211105T230914Z">
+        <seg>Most of these research projects involve sports biomechanics, physical activity and, in particular, sports research in textile and plantar orthoses (sports footwear).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Los objetivos principales de la Red REDICYM son detectar, establecer y promover líneas de investigación para la mejora del rendimiento deportivo y la salud de las mujeres ciclistas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T223824Z" creationid="Usuario" creationdate="20211105T223824Z">
+        <seg>The main objectives of the REDICYM Network are to identify, establish and promote lines of research to improve the sporting performance and health of female cyclists.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Nuestros objetivos</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T223613Z" creationid="Usuario" creationdate="20211105T223613Z">
+        <seg>Our aims</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Pedro Pérez-Soriano se graduó en Educación Física y Deportes por la Universidad de Valencia (España) en el año 2000, y recibió su doctorado en Educación Física y Deportes por la misma universidad en 2004.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230707Z" creationid="Usuario" creationdate="20211105T230707Z">
+        <seg>Pedro Pérez-Soriano graduated in Physical Education and Sports from the University of Valencia (Spain) in 2000, where he also received his PhD in Physical Education and Sports in 2004.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>REDICYM integra representantes de diversos agentes sociales involucrados en el rendimiento deportivo de las ciclistas españolas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T225350Z" creationid="Usuario" creationdate="20211105T223554Z">
+        <seg>REDICYM has / brings together representatives from a variety of social agents involved in the sports performance of Spanish female cyclists.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Rigurosidad científica</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T225438Z" creationid="Usuario" creationdate="20211105T225438Z">
+        <seg>Scientific accuracy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Su línea de investigación está centrada en el análisis y estudio biomecánico de la actividad física y del deporte.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230427Z" creationid="Usuario" creationdate="20211105T230427Z">
+        <seg>His research focuses on the analysis and biomechanical study of physical activity and sports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Tiene varias publicaciones nacionales e internacionales en revistas (JCR) dentro de la categoría "Sport Sciences".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T231014Z" creationid="Usuario" creationdate="20211105T231014Z">
+        <seg>He has several national and international publications in journals (JCR) within the category "Sport Sciences".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Trabajo multidisciplinar</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T225415Z" creationid="Usuario" creationdate="20211105T225415Z">
+        <seg>Multi-disciplinary work</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Universidad de Valencia (UV) (https://www.uv.es/), Departamento de Educación Física y Deportiva (https://www.uv.es/edufide)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230600Z" creationid="Usuario" creationdate="20211105T230600Z">
+        <seg>University of Valencia (UV) (https://www.uv.es/), Department of Physical and Sports Education (https://www.uv.es/edufide)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¿Qué es la red Redicym?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T223432Z" creationid="Usuario" creationdate="20211105T223432Z">
+        <seg>What is the Redicym network?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¿quiénes somos? &gt; universidad de valencia</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Usuario" changedate="20211105T230137Z" creationid="Usuario" creationdate="20211105T230137Z">
+        <seg>about us &gt; universidad de valencia</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

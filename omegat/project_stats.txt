@@ -1,0 +1,14 @@
+7/11/21 22:53
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	      309	    4834	                    30245	                    34568	        1	
+Pendientes:       	      275	    4322	                    27154	                    31003	        1	
+Únicos:           	      279	    4447	                    27596	                    31600	        1	
+Pendientes únicos:	      253	    4043	                    25200	                    28824	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo  	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+TEXTOS REDICYM.docx	               309	                 275	             279	                        253	          4834	               4322	           4447	                      4043	                          30245	                               27154	                           27596	                                      25200	                          34568	                               31003	                           31600	                                      28824	
